@@ -3,3 +3,5 @@
  Please run the attached zip file on your laptop
  Please upload the attached Arduino code to the Arduino board
  If you have any questions, bugejung5252@gmail.com, if you are korean, call me 010-2126-1792
+ Change the function value according to the size of the robot arm arm's size of robot arm
+
